@@ -1,0 +1,10 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace ExistenceTheoriesProblemsAbstractSpacesCanonicalLaneLean
+
+structure ExistenceProofState where
+  object : ExistenceAdmittedObject
+
+end ExistenceTheoriesProblemsAbstractSpacesCanonicalLaneLean
+end HautevilleHouse
